@@ -5,7 +5,7 @@
 
   **The bright blue supergiant of self-hosted communication.**
 
-  [![Rigel Chat](https://img.shields.io/badge/Rigel_Chat-Join_Public_Instance-3da9fc?style=for-the-badge&logo=rocket&logoColor=white)](https://rigelchat.gamatek.fr/invite/rigel?instance=https%3A%2F%2Frigelchat.gamatek.fr)
+  [![Rigel Chat](https://img.shields.io/badge/Rigel-Join_Public_Instance-3da9fc?style=for-the-badge&logo=rocket&logoColor=white)](https://rigel.gamatek.fr/invite/rigel?instance=https%3A%2F%2Frigel.gamatek.fr)
 
   [![License](https://img.shields.io/badge/License-AGPLv3-blue.svg?style=for-the-badge)](LICENSE)
   [![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)]()
@@ -21,9 +21,11 @@ We aim to provide a familiar experience without the bloat—lightweight, customi
 
 ## 📜 The Story & The Name
 
-### From Oxicord to Rigel
+### From a Fun Experiment to a Serious Ambition
 
-The project originally began under the name **Oxicord**. The idea was simple: to be as essential as oxygen for communication. However, as the project matured, we realized that sticking to the "cord" naming convention tied us too closely to the past and the very platforms we wanted to offer an alternative to.
+The project originally began under the name **Oxicord**. At first, it was just a fun experiment—a way to learn and see if we could build a functional chat platform from scratch.
+
+However, as the prototype evolved, so did the vision. We realized that this "toy project" had the potential to become a robust, serious alternative for communities seeking independence. But to be taken seriously, we needed to shed our past. Sticking to the "cord" naming convention tied us too closely to the platforms we wanted to challenge.
 
 We didn't want to be just another "clone" or a shadow. We wanted to shine on our own.
 
@@ -52,7 +54,7 @@ To mark this new chapter, we chose a name that reflects our ambition:
 
 We believe in dogfooding: we use our own software to build our software. To chat with the developers, report bugs in real-time, or just hang out, join our official instance:
 
-👉 **[Join the Rigel Public Instance](https://rigelchat.gamatek.fr/invite/rigel?instance=https%3A%2F%2Frigelchat.gamatek.fr)**
+👉 **[Join the Rigel Public Instance](https://rigel.gamatek.fr/invite/rigel?instance=https%3A%2F%2Frigel.gamatek.fr)**
 
 Rigel is currently in active development. We welcome developers, designers, and dreamers to join us in building the next star in the open-source galaxy.
 
