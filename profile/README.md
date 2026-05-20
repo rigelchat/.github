@@ -5,8 +5,7 @@
 
   **The bright blue supergiant of self-hosted communication.**
 
-  [![Rigel Chat](https://img.shields.io/badge/Rigel-Join_Public_Instance-3da9fc?style=for-the-badge&logo=rocket&logoColor=white)](https://rigel.gamatek.fr/invite/rigel?instance=https%3A%2F%2Frigel.gamatek.fr)
-
+  [![Rigel](https://img.shields.io/badge/Rigel-Join_Public_Instance-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)]()
   [![License](https://img.shields.io/badge/License-AGPLv3-blue.svg?style=for-the-badge)](LICENSE)
   [![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)]()
 
