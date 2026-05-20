@@ -5,7 +5,7 @@
 
   **The bright blue supergiant of self-hosted communication.**
 
-  [![Rigel](https://img.shields.io/badge/Rigel-Join_Public_Instance-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)]()
+  [![Rigel](https://img.shields.io/badge/Rigel-Join_Public_Instance-brightgreen?style=for-the-badge&logo=rocket&logoColor=white)](https://app.rigel.chat/invite/rigel?instance=https%3A%2F%2Fserver.rigel.chat)
   [![License](https://img.shields.io/badge/License-AGPLv3-blue.svg?style=for-the-badge)](LICENSE)
   [![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)]()
 
@@ -53,7 +53,7 @@ To mark this new chapter, we chose a name that reflects our ambition:
 
 We believe in dogfooding: we use our own software to build our software. To chat with the developers, report bugs in real-time, or just hang out, join our official instance:
 
-👉 **[Join the Rigel Public Instance](https://rigel.gamatek.fr/invite/rigel?instance=https%3A%2F%2Frigel.gamatek.fr)**
+👉 **[Join the Rigel Public Instance](https://app.rigel.chat/invite/rigel?instance=https%3A%2F%2Fserver.rigel.chat)**
 
 Rigel is currently in active development. We welcome developers, designers, and dreamers to join us in building the next star in the open-source galaxy.
 
