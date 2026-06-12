@@ -6,8 +6,6 @@
   [![Rigel](https://img.shields.io/badge/Rigel-Join_Public_Instance-0185ff?style=for-the-badge&logo=rocket&logoColor=white)](https://rigel.chat/invite/rigel?instance=https%3A%2F%2Frigel.chat)
   [![License](https://img.shields.io/badge/License-AGPLv3-BD0000.svg?style=for-the-badge)](LICENSE)
   [![Status](https://img.shields.io/badge/Status-Active_Development-brightgreen?style=for-the-badge)]()
-
-  ---
 </div>
 
 ## 📖 About
