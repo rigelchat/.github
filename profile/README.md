@@ -50,7 +50,7 @@ In 2026, I started learning **Rust** to rewrite the server from scratch (which w
 * **Rigel (The project):** Named after the brightest star in the [Orion constellation](https://en.wikipedia.org/wiki/Orion_(constellation)).
   It is a blue supergiant-powerful, luminous, and visible from everywhere.
   It symbolizes our goal to be a fast and brilliant alternative in the chat ecosystem.
-* **Leo (The Mascot):** I named our astronaut lion (our small cat) **Leo**. While Rigel is our star, Leo (the Lion constellation) represents the feline spirit of independence and agility.
+* **Leo (The Mascot):** I named our astronaut lion (our big cat) **Leo**. While Rigel is our star, Leo (the Lion constellation) represents the feline spirit of independence and agility.
 
 ---
 
